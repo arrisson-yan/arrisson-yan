@@ -25,7 +25,3 @@
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 ---
-
-### 📊 Estatísticas
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=arrisson-yan&show_icons=true&theme=radical)
